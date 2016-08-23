@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+	<Tags />
+	<Includes />
+
+	<UnitOverlayIconSettings
+		id="UnitOverlayIconSettingsCNCNE"
+		AmmoPipImage="AmmoPip"
+		AmmoPipFrameImage="AmmoPipFrame"
+		ContainPipFrameImage="ContainPipFrame"
+		UnitTypeIconBackgroundImage="UnitTypeIconBackground"
+		PowerIconImageSequence=""
+		RepairIconImageSequence=""
+		AmmoPipScale="22%" 
+		ContainPipScale="22%"
+		UnitTypeIconScale="22%"
+		StatusIconScale="22%"
+		VeterancyIconScale="22%">
+
+		<FactionVeterancy
+			Faction="GDI">
+			<RankIcon Rank="2" Image=""/>
+			<RankIcon Rank="3" Image=""/>
+			<RankIcon Rank="4" Image=""/>
+		</FactionVeterancy>
+
+		<FactionVeterancy
+			Faction="NOD">
+			<RankIcon Rank="2" Image=""/>
+			<RankIcon Rank="3" Image=""/>
+			<RankIcon Rank="4" Image=""/>
+		</FactionVeterancy>
+
+		<FactionVeterancy
+			Faction="Alien">
+			<RankIcon Rank="2" Image=""/>
+			<RankIcon Rank="3" Image=""/>
+			<RankIcon Rank="4" Image=""/>
+		</FactionVeterancy>
+
+	</UnitOverlayIconSettings>
+
+</AssetDeclaration>

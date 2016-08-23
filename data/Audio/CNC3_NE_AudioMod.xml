@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Tags />
+	<Includes>
+	</Includes>
+	<!--==================================Known Issues=======================================-->
+	
+	<!-- Adding music tracks without a MP3 pass through, to SoundMod.xml, will cause CNC 3 to
+	crash on start up.
+		
+	Music tracks have been limited to 25 tracks to avoid a possible engine limitation were
+	to many music tracks can causes CNC 3 to flood physical memory consequently crashing the
+	game. Yes this did happen to me.
+	
+	Do not double up MP3 passthroughs if you wish to use a new MP3 track in more than just one 
+	at its ID to more than one part of the no zone track listings.
+	
+	<Multisound id="Music_BaseBuilding_BlueMP3"
+		Control = "PLAY_ONE LOOP" >
+		<Subsound>TM_CNC3_BB_BLU_01MP3</Subsound>
+		<Subsound>TM_CNC3_EX_ANY_01MP3</Subsound> < The repeated entry
+		</Multisound>
+
+	<Multisound id="Music_Explore_BlueMP3"
+		Control = "PLAY_ONE LOOP" >
+		<Subsound>TM_CNC3_EX_ANY_01MP3</Subsound> < The repeated entry
+	</Multisound>
+
+	<Multisound id="Music_Explore2_BlueMP3"
+		Control = "PLAY_ONE LOOP" >
+		<Subsound>TM_CNC3_EX_ANY_01MP3</Subsound> < The repeated entry
+		<Subsound>TM_CNC3_EX_ANY_02MP3</Subsound>
+	</Multisound>-->
+	
+	
+
+
+	
+	<Defines>
+		<!-- ============== Music defines ============== -->
+		
+		<Define name="TM_AC_VOLUME" value="35"/>
+		<Define name="TM_EX_VOLUME" value="40"/>
+		<Define name="TM_BB_VOLUME" value="55"/>		
+	</Defines>	
+	
+
+		<MiscAudio
+			id="MODMiscAudioCNCNE" 
+			RadarNotifyHarvesterUnderAttackSound=""
+			RadarNotifyStructureUnderAttackSound=""
+			RadarNotifyInfiltrationSound=""        
+			RadarNotifyOnlineSound="RadarOn"              
+			RadarNotifyOfflineSound="RadarOff"             
+			GenericRadarEvent=""					
+			BeaconPlacedSound=""					
+			BeaconPlacementFailed=""				
+			DefectorTimerTickSound=""              
+			DefectorTimerDingSound=""              
+			AllCheerSound=""                       
+			NoCanDoSound=""                        
+			StealthDiscoveredSound=""              
+			StealthNeutralizedSound=""             
+			MoneyDepositSound="CashGaining"                   
+			MoneyWithdrawSound="CashLosing"
+			LowPower="PlayerBasePowerOff"
+			SufficientPower="PlayerBasePowerOn"
+			BuildingDisabled="BuildingGenericPowerOff"                    
+			BuildingReenabled="BuildingGenericPowerOn"                   
+			VehicleDisabled=""                     
+			VehicleReenabled=""                    
+			SplatterVehiclePilotsBrain=""          
+			CrateHeal="CratePickup"
+			CrateShroud="CratePickup"
+			CrateFreeUnit="CratePickup"
+			CrateMoney="CratePickup"
+			UnitPromoted=""                        
+			RepairSparks=""                        
+			EnterCloseCombat=""					
+			ExitCloseCombat=""						
+			IncomingChatNotification="ChatInGameNotification"
+			PrivateMessageNotification="ChatPrivateMesssageNotification"	
+			BuddyMessageNotification=""			
+			GameSpyCommunicatorOpen=""				
+			EnabledHotKeyPressed=""				
+			DisabledHotKeyPressed=""				
+			DisabledButtonClicked=""				
+			LowLODShellMusic="ShellLowLODMP3"
+			HighLODShellMusic="ShellLowLODMP3"
+			ScoreScreenMusic="ScoreScreenMusic"					
+			ShellMapLoadMusic="Music_BaseBuilding_Unknown"					
+			FullScreenSubMenuMusic="NewSkirmishMP3"				
+			SaveFileLoadMusic="NewLoadScreenMP3"
+			CreditsMusic="NewCreditsMP3"						
+			VolumeSampleMusic="VolumeSampleMusic"					
+			VolumeSampleSoundFX="VolumeSampleSoundFX"					
+			VolumeSampleVoice="VolumeSampleVoice"					
+			VolumeSampleAmbient="VolumeSampleAmbient"					
+			VolumeSampleMovie="VolumeSampleMovie"					
+			MissionBriefingCharacterClick="MissionBriefingCharacter"		
+			ComboBoxClick=""						
+			MPSecondsCountdownBeep="Gui_MPCountdown" 
+			RIFThingTemplateReloadedSound=""       
+			RIFObjectsRefreshedSound=""		    
+			FastForwardModeOn=""					
+			FastForwardModeOff=""					
+			RallyPointSet="RallyPointSet"
+			UnableToSetRallyPoint=""		
+			PlanningModeOrderGiven="GuiCommandButtonClick"
+			BuildingPlacementSound=""				
+			BadBuildingPlacementSound=""			
+			WallPlacementSound=""					
+			AircraftWheelScreech=""				
+			LockonTickSound=""			
+			TargetObjectWithSpecialPowerSound="" 
+			ObjectiveCompletedSound="" 
+			GuiFixedButtonClickedSound="GuiFixedButtonClick"
+			GuiBuildQueueButtonClickedSound="GuiBuildQueueButtonClick"
+			GuiSelectionRefinementButtonClickedSound="GuiSelectionRefinementButtonClick"
+			GuiFactorySelectionButtonClickedSound="GuiFactorySelectionButtonClick"
+			GuiTogglePowerObjectClickedSound="GuiCommandButtonClick"
+			GuiToggleRepairObjectClickedSound="GuiCommandButtonClick"
+			GuiSellObjectClickedSound="GuiCommandButtonClick"
+			GuiCommandButtonClickedSound="GuiCommandButtonClick"
+			GuiCommandButtonRightClickedSound="GuiCommandButtonRightClick"
+			GuiDisabledCommandButtonClickedSound="GuiDisabledCommandButtonClick"
+			GuiDisabledCommandButtonRightClickedSound="GuiDisabledCommandButtonRightClick"
+			GuiPlayerPowerButtonClickedSound="GuiPlayerPowerButtonClick"
+			GuiPauseDialogButtonClickedSound="NewGui_ShellMapSelect"
+			GuiPauseDialogButtonMouseOverSound="NewGui_ShellMapMouseOver"
+			GuiPauseDialogButtonMouseOutSound=""
+			GuiYesNoDialogButtonClickedSound="NewGui_ShellMapSelect"
+			GuiYesNoDialogButtonMouseOverSound="NewGui_ShellMapMouseOver"
+			GuiYesNoDialogButtonMouseOutSound=""
+		/>
+
+
+		
+		<MP3MusicTrack id="BaseMP3MusicTrack"
+			Volume="55.0" 
+			ReverbEffectLevel = "0"
+			DryLevel = "100" 
+			SubmixSlider = "MUSIC"
+			Control = "ALLOW_KILL_MID_FILE"
+			Priority = "CRITICAL" >
+		</MP3MusicTrack>		
+		
+		
+		
+		
+    <!-- Trying to replace the music of gameplay -->
+		
+		
+	<!-- ============================This will replace all of=============================== -->
+	<!-- ================ TREVOR MORRIS AND STEVE JABLONSKY sound track ==================== -->
+
+
+	
+
+		<!-- BASE BUILDING -->
+		<!-- BASE BUILDING -->
+		<!-- BASE BUILDING -->
+		
+	<!--This is the music you hear at the beginning of a game when your are building your base-->
+
+	<!--1-->
+	<AudioFileMP3Passthrough id="Heroism" File="MP3/Heroism.mp3" />
+	<MP3MusicTrack id="TM_CNC3_BB_BLU_01MP3" inheritFrom="MP3MusicTrack:BaseMP3MusicTrack" Volume="=$TM_BB_VOLUME + 10">
+		<Filename>Heroism</Filename>
+	</MP3MusicTrack>
+	
+	<!--2-->
+	<AudioFileMP3Passthrough id="Menus007" File="MP3/Menus007.mp3" />
+	<MP3MusicTrack id="TM_CNC3_BB_BLU_02MP3" inheritFrom="MP3MusicTrack:BaseMP3MusicTrack" Volume="=$TM_BB_VOLUME + 5">
+		<Filename>Menus007</Filename>
+	</MP3MusicTrack>
+	
+	<!--3-->
+	<AudioFileMP3Passthrough id="RedSky" File="MP3/RedSky.mp3" />
+	<MP3MusicTrack id="TM_CNC3_BB_BLU_03MP3" inheritFrom="MP3MusicTrack:BaseMP3MusicTrack" Volume="=$TM_BB_VOLUME + 5">
+		<Filename>RedSky</Filename>
+	</MP3MusicTrack>
+	
+	<!--4-->
+	<AudioFileMP3Passthrough id="IonStorm" File="MP3/IonStorm.mp3" />
+	<MP3MusicTrack id="TM_CNC3_BB_BLU_04MP3" inheritFrom="MP3MusicTrack:BaseMP3MusicTrack" Volume="=$TM_BB_VOLUME + 5">
+		<Filename>IonStorm</Filename>
+	</MP3MusicTrack>
+	
+	<!--5-->
+	<AudioFileMP3Passthrough id="DuskHour" File="MP3/DuskHour.mp3" />
+	<MP3MusicTrack id="TM_CNC3_BB_BLU_05MP3" inheritFrom="MP3MusicTrack:BaseMP3MusicTrack" Volume="=$TM_BB_VOLUME + 5">
+		<Filename>DuskHour</Filename>
+	</MP3MusicTrack>
+	
+	<!--6-->
+	<AudioFileMP3Passthrough id="Approach" File="MP3/Approach.mp3" />
+	<MP3MusicTrack id="TM_CNC3_BB_BLU_01_movedMP3" inheritFrom="MP3MusicTrack:BaseMP3MusicTrack" Volume="=$TM_BB_VOLUME + 5">
+		<Filename>Approach</Filename>
+	</MP3MusicTrack>
+
+	<!--7-->
+	<AudioFileMP3Passthrough id="Defense" File="MP3/Defense.mp3" />
+	<MP3MusicTrack id="TM_CNC3_BB_BLU_02_movedMP3" inheritFrom="MP3MusicTrack:BaseMP3MusicTrack" Volume="=$TM_BB_VOLUME + 5">
+		<Filename>Defense</Filename>
+	</MP3MusicTrack>
+	
+	
+	
+	
+	<!--============Listings=====================================================-->
+		<!-- Zone Track Listings -->
+		<!-- Zone Track Listings -->
+		<!-- Zone Track Listings -->
+		
+		
+
+		
+		
+		<!-- MASTER BLUE ZONE MUSIC -->
+	<Multisound id="Music_BaseBuilding_BlueMP3"
+		Control = "PLAY_ONE LOOP" >
+		<Subsound>TM_CNC3_BB_BLU_01MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_02MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_03MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_04MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_05MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_01_movedMP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_02_movedMP3</Subsound>
+		</Multisound>
+
+	
+	<!-- MASTER RED ZONE MUSIC -->
+	<Multisound id="Music_BaseBuilding_RedMP3"
+		Control = "PLAY_ONE LOOP" >
+		<Subsound>TM_CNC3_BB_BLU_01MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_02MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_03MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_04MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_05MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_01_movedMP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_02_movedMP3</Subsound>
+	</Multisound>
+		
+	
+	<!-- MASTER YELLOW ZONE MUSIC -->
+		<Multisound id="Music_BaseBuilding_YellowMP3"
+		Control = "PLAY_ONE LOOP" >
+		<Subsound>TM_CNC3_BB_BLU_01MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_02MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_03MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_04MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_05MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_01_movedMP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_02_movedMP3</Subsound>
+	</Multisound>
+	
+	
+	
+
+	<!-- MASTER UNKNOWN ZONE MUSIC -->
+	<!-- Just mix all the zones together -->
+	<Multisound id="Music_BaseBuilding_UnknownMP3"
+		Control = "PLAY_ONE LOOP" >
+		<Subsound>TM_CNC3_BB_BLU_01MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_02MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_03MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_04MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_05MP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_01_movedMP3</Subsound>
+		<Subsound>TM_CNC3_BB_BLU_02_movedMP3</Subsound>
+	</Multisound>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+    <!-- No MenuMusic Mod -->		
+		
+
+		<AudioFileMP3Passthrough id="MODDummyMenu" File="MP3/DummyMenu.mp3" />
+		
+		<MP3MusicTrack id="ShellLowLODMP3" inheritFrom="MP3MusicTrack:BaseMP3MusicTrack" Volume="60">		
+			<VolumeSliderMultiplier Slider="NONE" Multiplier="1.0" />
+			<!-- This is a fake to prevent the volume sample from being quieted by the movie playing on the main menu -->
+			<Filename>MODDummyMenu</Filename>			
+		</MP3MusicTrack>
+		
+		
+		
+        <MP3MusicTrack id="NewSkirmishMP3" inheritFrom="MP3MusicTrack:BaseMP3MusicTrack" Volume="60">        
+            <VolumeSliderMultiplier Slider="NONE" Multiplier="1.0" />
+            <Filename>MODDummyMenu</Filename>            
+        </MP3MusicTrack>
+		
+		
+		
+        <MP3MusicTrack id="NewCreditsMP3" inheritFrom="MP3MusicTrack:BaseMP3MusicTrack" Volume="60">        
+            <VolumeSliderMultiplier Slider="NONE" Multiplier="1.0" />
+            <Filename>MODDummyMenu</Filename>            
+        </MP3MusicTrack>        		
+		
+		
+		
+        <MP3MusicTrack id="NewloadMP3" inheritFrom="MP3MusicTrack:BaseMP3MusicTrack" Volume="60">        
+            <VolumeSliderMultiplier Slider="NONE" Multiplier="1.0" />
+            <Filename>MODDummyMenu</Filename>            
+        </MP3MusicTrack>    	
+
+		
+		<AudioFileMP3Passthrough id="MODLoadScreen" File="MP3/NewLoadScreenMP3.mp3" />
+        <MP3MusicTrack id="NewLoadScreenMP3" inheritFrom="MP3MusicTrack:BaseMP3MusicTrack" Volume="60">        
+            <VolumeSliderMultiplier Slider="NONE" Multiplier="1.0" />
+            <Filename>MODLoadScreen</Filename>            
+        </MP3MusicTrack>		
+		
+		
+		
+    <!-- New Buttons Sounds -->
+
+
+		<AudioEvent id="BaseSoundEffect_Mod"
+			Volume="100" 
+			MinVolume="0"
+			Priority="NORMAL"
+			Limit="3"
+			MinRange="200"
+			MaxRange="800"
+			PlayPercent="100"
+			Type="UI PLAYER"
+			DryLevel="100"
+			ReverbEffectLevel="100"
+			ZoomedInOffscreenVolumePercent = "50"
+			ZoomedInOffscreenMinVolumePercent = "100" 
+			ZoomedInOffscreenOcclusionPercent = "20"  >
+			<!-- You might think the following was a good idea:
+				SubmixSlider ="SOUNDFX"
+				IT'S NOT. Doing this in the default sound will mess up the special 'use the speech slider if the
+				voice flag is present and no SubmixSlider entry was seen' code.		-->
+		</AudioEvent>
+		
+		
+	
+		<AudioFile id="NewShellMapSelectSound" File="WAV/NGui_ShellMapSelect.wav" GUIPreset="Default" />	
+		
+	<AudioEvent id="NewGui_ShellMapSelect" inheritFrom="AudioEvent:BaseSoundEffect_Mod"
+	  Volume = "30"
+	  Limit = "3"
+	  Type = "UI PLAYER"
+	  SubmixSlider = "SOUNDFX" >
+		<VolumeSliderMultiplier Slider="NONE" Multiplier="1.0" />		<!-- This is a fake to prevent the volume sample from being quieted by the movie playing on the main menu -->
+			<Sound>NewShellMapSelectSound</Sound>			
+    <!-- <Sound>UButto_shelClica</Sound> -->
+	<!-- <Sound>UMouse_Selecta</Sound> -->
+	</AudioEvent>	
+	
+	
+	
+	
+	
+	
+		<AudioFile id="NewShellMapMouseOverSound" File="WAV/NGui_ShellMapMouseOver.wav" GUIPreset="Default" />	
+	
+	<AudioEvent id="NewGui_ShellMapMouseOver" inheritFrom="AudioEvent:BaseSoundEffect_Mod"
+	  Volume = "30"
+	  Limit = "3"
+	  Type = "UI PLAYER"
+	  SubmixSlider = "SOUNDFX" >
+		<VolumeSliderMultiplier Slider="NONE" Multiplier="1.0" />		<!-- This is a fake to prevent the volume sample from being quieted by the movie playing on the main menu -->
+			<Sound>NewShellMapMouseOverSound</Sound>			
+    <!-- <Sound>UButto_shelClica</Sound> -->
+	<!-- <Sound>UMouse_Selecta</Sound> -->
+	</AudioEvent>	
+	
+
+
+
+	
+	</AssetDeclaration>

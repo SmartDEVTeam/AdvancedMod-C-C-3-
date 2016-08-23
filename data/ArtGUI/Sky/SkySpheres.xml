@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Tags></Tags>
+	<Includes>
+
+
+		<!--SkySpheres-->
+		<Include type="all" source="SkySpheres/SkyDome_01.xml" />
+		<Include type="all" source="SkySpheres/SkyDome_Night_01.xml" />
+		
+		<Include type="all" source="SkySpheres/SkyDome_Space_01.xml" />
+		<Include type="all" source="SkySpheres/SkyDome_Space_02.xml" />
+		<Include type="all" source="SkySpheres/SkyDome_Space_03.xml" />
+		<Include type="all" source="SkySpheres/SkyDome_Space_04.xml" />
+		
+		<Include type="all" source="SkySpheres/SkyDome_World_01.xml" />
+		<Include type="all" source="SkySpheres/SkyDome_World_02.xml" />
+		<Include type="all" source="SkySpheres/SkyDome_World_03.xml" />
+		<Include type="all" source="SkySpheres/SkyDome_World_04.xml" />
+		
+		
+
+	</Includes>
+
+</AssetDeclaration>
