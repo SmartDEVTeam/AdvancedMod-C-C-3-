@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Tags></Tags>
+	<Includes>
+		<!--
+			C&C3 A New Experience.
+		-->
+		<Include type="reference" source="DATA:static.xml" />
+		<Include type="reference" source="DATA:global.xml" /> 
+
+	<!--************************* Ypsilon Combat GUI RC1 ******************************-->
+		<Include type="reference" source="AptUI/MainMenu.xml" />
+		<Include type="reference" source="AptUI/Skirmish.xml" />
+		<Include type="reference" source="AptUI/SkirmishOpenPlay.xml" />
+		<Include type="reference" source="AptUI/ShellButtons.xml" />
+		<Include type="reference" source="AptUI/ShellContent.xml" />
+		<Include type="reference" source="AptUI/MpGameSetup.xml" />
+		<Include type="reference" source="AptUI/LoadScreen.xml" />
+		<Include type="reference" source="AptUI/Options.xml" />
+		
+		
+		
+		<Include type="reference" source="AptUI/TacticalHUD.xml" />	
+		<Include type="reference" source="AptUI/TacticalHUDBuildQueuePage.xml" />
+		<Include type="reference" source="AptUI/TacticalHUDCommandListBox.xml" />	
+		<Include type="reference" source="AptUI/TacticalHUDCommandModeBar.xml" />
+		<Include type="reference" source="AptUI/TacticalHUDCommonCommandBar.xml" />	
+		<Include type="reference" source="AptUI/TacticalHUDMainCommandBar.xml" />
+		<Include type="reference" source="AptUI/TacticalHUDRadar.xml" />
+		<Include type="reference" source="AptUI/TacticalHUDSelectionDetails.xml" />
+		<Include type="reference" source="AptUI/TacticalPlayerPowerCommandButton.xml" />
+		<Include type="reference" source="AptUI/TacticalHUDPlayerPowersBar.xml" />
+		
+		
+		<Include type="reference" source="AptUI/CustomHotkeys.xml" />	
+		<Include type="reference" source="AptUI/GuiFX.xml" />
+		<Include type="reference" source="AptUI/MissionLoading.xml" />	
+		<Include type="reference" source="AptUI/MissionSummary.xml" />
+		<Include type="reference" source="AptUI/TacticalPauseDialog.xml" />	
+		<Include type="reference" source="AptUI/YesNoDialog.xml" />
+		<Include type="reference" source="AptUI/SaveLoad.xml" />
+		<Include type="reference" source="AptUI/Timeline.xml" />
+		
+		
+	</Includes>
+
+</AssetDeclaration>

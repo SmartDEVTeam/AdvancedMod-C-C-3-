@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Tags></Tags>
+	<Includes>
+		<!--
+			mod.xml is the central include for mod setup data.		
+		-->
+		<Include type="reference" source="DATA:static.xml" />
+		<Include type="reference" source="DATA:global.xml" /> 
+
+		<!-- Assets DATA -->
+		<Include type="all" source="DATA:AdvancedMod/Data/SoundMod.xml" />  
+
+		<!-- Sky texture -->		
+		<Include type="all" source="ArtGUI/Sky/SkySpheres.xml" />
+		
+	<!--************************* Ypsilon Combat GUI RC1 ******************************-->
+		<Include type="all" source="Audio/CNC3_NE_AudioMod.xml" />
+		<Include type="all" source="Audio/CampaignTemplates.xml" />
+
+		<Include type="all" source="ArtGUI/UI/UnitOverlayIconSettings.xml" />
+		
+		<Include type="all" source="Audio/MusicScripts.xml" />
+		<Include type="all" source="Audio/MusicScript_CommonConditions.xml" />
+		<Include type="all" source="Audio/MusicScript_BlueZone.xml" />
+		<Include type="all" source="Audio/MusicScript_YellowZone.xml" />
+		<Include type="all" source="Audio/MusicScript_RedZone.xml" />
+		<Include type="all" source="Audio/MusicScript_UnknownZone.xml" />
+    
+		<!--Unit Mod-->
+		<Include type="all" source="DATA:AdvancedMod/Data/GDI/Units/GDIAdvAPC.xml" />
+
+		<!--Structure Mod-->
+		<Include type="all" source="DATA:AdvancedMod/Data/GDI/Structures/GDIAdvWarFactory.xml" />
+		<Include type="all" source="DATA:AdvancedMod/Data/GDI/Structures/GDIAdvCrane.xml" />
+
+		<!-- GLOBAL DATA -->
+		<Include type="all" source="DATA:AdvancedMod/Data/Global/LogicCommand.xml"/>
+		<Include type="all" source="DATA:AdvancedMod/Data/Global/LogicCommandSet.xml"/>
+
+
+
+	</Includes>
+
+</AssetDeclaration>
+
