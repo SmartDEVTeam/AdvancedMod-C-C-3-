@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+
+	<!-- GDI GDI GDI GDI -->
+	<LogicCommandSet
+		id="GDIAdvWarFactoryCommandSet">
+		<Cmd>Command_ConstructGDIAdvAPC</Cmd>
+		<Cmd>Command_RepairVehicle</Cmd>
+		<Cmd>Command_TogglePower</Cmd>
+		<Cmd>Command_SelfRepair</Cmd>
+		<Cmd>Command_Sell</Cmd>
+		<Cmd>Command_SetDefaultBuilding</Cmd>
+		<Cmd>Command_SetRallyPoint_Vehicle</Cmd>
+	</LogicCommandSet>
+
+	<LogicCommandSet
+		id="GDIAdvCraneCommandSet">
+		<Cmd>Command_ConstructGDIPowerPlant</Cmd>
+		<Cmd>Command_ConstructGDIAdvWarfactory</Cmd>
+		<Cmd>Command_TogglePower</Cmd>
+		<Cmd>Command_SelfRepair</Cmd>
+		<Cmd>Command_Sell</Cmd>
+	</LogicCommandSet>
+
+	<LogicCommandSet
+		id="GDIAdvAPCCommandSet">
+    <Cmd>Command_StanceDrillDown</Cmd>
+    <Cmd>Command_GDICallForTransportVehicle</Cmd>
+    <Cmd>Command_MoveToPositionAndEvacuate</Cmd>
+    <Cmd>Command_Stop</Cmd>
+    <Cmd>Command_AttackMove</Cmd>
+  	</LogicCommandSet>
+
+  	<LogicCommandSet
+		id="GDIConstructionYardCommandSet">
+		<Cmd>Command_ConstructGDIPowerPlant</Cmd>
+		<Cmd>Command_ConstructGDIRefinery</Cmd>
+		<Cmd>Command_ConstructGDIBarracks</Cmd>
+		<Cmd>Command_ConstructGDIWarfactory</Cmd>
+		<Cmd>Command_ConstructGDICommandPost</Cmd>
+		<Cmd>Command_ConstructGDIAirTower</Cmd>
+		<Cmd>Command_ConstructGDIMedicalCenter</Cmd>
+		<Cmd>Command_ConstructGDIArmory</Cmd>
+		<Cmd>Command_ConstructGDISpaceCommandUplink</Cmd>
+		<Cmd>Command_ConstructGDIWatchTower</Cmd>
+		<Cmd>Command_ConstructGDIGolumCannon</Cmd>
+		<Cmd>Command_ConstructGDIAABattery</Cmd>
+		<Cmd>Command_ConstructGDITiberiumSilo</Cmd>
+		<Cmd>Command_ConstructGDITerraformingStation</Cmd>
+		<Cmd>Command_ConstructGDIIonCannonControl</Cmd>
+		<Cmd>Command_ConstructGDICrane</Cmd>
+		<Cmd>Command_ConstructGDIAdvCrane</Cmd>
+		<Cmd>Command_ConstructGDIWallHub</Cmd>
+		<Cmd>Command_ConstructGDISurveyor</Cmd>
+		<Cmd>Command_PackGDIMCV</Cmd>
+		<Cmd>Command_SelfRepair</Cmd>
+		<Cmd>Command_Sell</Cmd>
+	</LogicCommandSet>
+
+	<LogicCommandSet
+		id="GDIWallHubCommandSet">
+		<Cmd>Command_GDI_BeginWallSpan</Cmd> 
+		<Cmd>Command_SelfRepair</Cmd>
+		<Cmd>Command_Sell</Cmd>
+	</LogicCommandSet>
+  	<!-- GDI GDI GDI GDI -->
+
+
+</AssetDeclaration>

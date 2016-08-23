@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+	
+	<!-- GDI GDI GDI GDI -->
+	<LogicCommand
+		Type="CONSTRUCTION_YARD_CONSTRUCT"
+		id="Command_ConstructGDIAdvCrane">
+		<Object>GDIAdvCrane</Object>
+	</LogicCommand>
+	
+	<LogicCommand
+		Type="CONSTRUCTION_YARD_CONSTRUCT"
+		id="Command_ConstructGDIAdvWarfactory">
+		<Object>GDIAdvWarfactory</Object>
+	</LogicCommand>
+
+		<LogicCommand
+		Type="UNIT_BUILD"
+		id="Command_ConstructGDIAdvAPC">
+		<Object>GDIAdvAPC</Object>
+	</LogicCommand>
+	<!-- GDI GDI GDI GDI -->
+
+</AssetDeclaration>
