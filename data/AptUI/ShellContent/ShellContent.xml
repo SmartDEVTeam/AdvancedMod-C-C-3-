@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<AptAptData id="ShellContent_apt" File="ShellContent.apt" />
+	<AptConstData id="ShellContent_const" File="ShellContent.const" />
+	<AptDatData id="ShellContent_dat" File="ShellContent.dat" />
+	<AptGeometryData id="ShellContent_11" File="ShellContent_geometry\11.ru" AptID="11"/>
+	<AptGeometryData id="ShellContent_13" File="ShellContent_geometry\13.ru" AptID="13"/>
+	<AptGeometryData id="ShellContent_15" File="ShellContent_geometry\15.ru" AptID="15"/>
+	<AptGeometryData id="ShellContent_17" File="ShellContent_geometry\17.ru" AptID="17"/>
+	<AptGeometryData id="ShellContent_20" File="ShellContent_geometry\20.ru" AptID="20"/>
+	<AptGeometryData id="ShellContent_22" File="ShellContent_geometry\22.ru" AptID="22"/>
+	<AptGeometryData id="ShellContent_27" File="ShellContent_geometry\27.ru" AptID="27"/>
+	<AptGeometryData id="ShellContent_30" File="ShellContent_geometry\30.ru" AptID="30"/>
+	<AptGeometryData id="ShellContent_33" File="ShellContent_geometry\33.ru" AptID="33"/>
+	<AptGeometryData id="ShellContent_36" File="ShellContent_geometry\36.ru" AptID="36"/>
+	<AptGeometryData id="ShellContent_39" File="ShellContent_geometry\39.ru" AptID="39"/>
+	<AptGeometryData id="ShellContent_47" File="ShellContent_geometry\47.ru" AptID="47"/>
+	<AptGeometryData id="ShellContent_48" File="ShellContent_geometry\48.ru" AptID="48"/>
+	<AptGeometryData id="ShellContent_50" File="ShellContent_geometry\50.ru" AptID="50"/>
+	<AptGeometryData id="ShellContent_52" File="ShellContent_geometry\52.ru" AptID="52"/>
+	<AptGeometryData id="ShellContent_55" File="ShellContent_geometry\55.ru" AptID="55"/>
+	<AptGeometryData id="ShellContent_57" File="ShellContent_geometry\57.ru" AptID="57"/>
+	<AptGeometryData id="ShellContent_59" File="ShellContent_geometry\59.ru" AptID="59"/>
+	<AptGeometryData id="ShellContent_6" File="ShellContent_geometry\6.ru" AptID="6"/>
+	<AptGeometryData id="ShellContent_62" File="ShellContent_geometry\62.ru" AptID="62"/>
+	<AptGeometryData id="ShellContent_63" File="ShellContent_geometry\63.ru" AptID="63"/>
+	<AptGeometryData id="ShellContent_66" File="ShellContent_geometry\66.ru" AptID="66"/>
+	<AptGeometryData id="ShellContent_68" File="ShellContent_geometry\68.ru" AptID="68"/>
+	<AptGeometryData id="ShellContent_71" File="ShellContent_geometry\71.ru" AptID="71"/>
+	<AptGeometryData id="ShellContent_73" File="ShellContent_geometry\73.ru" AptID="73"/>
+	<AptGeometryData id="ShellContent_75" File="ShellContent_geometry\75.ru" AptID="75"/>
+	<Texture id="apt_ShellContent_1" File="art\Textures\apt_ShellContent_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+</AssetDeclaration>

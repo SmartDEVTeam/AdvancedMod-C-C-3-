@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<AptAptData id="SaveLoad_apt" File="SaveLoad.apt" />
+	<AptConstData id="SaveLoad_const" File="SaveLoad.const" />
+	<AptDatData id="SaveLoad_dat" File="SaveLoad.dat" />
+	<AptGeometryData id="SaveLoad_105" File="SaveLoad_geometry\105.ru" AptID="105"/>
+	<AptGeometryData id="SaveLoad_21" File="SaveLoad_geometry\21.ru" AptID="21"/>
+	<AptGeometryData id="SaveLoad_24" File="SaveLoad_geometry\24.ru" AptID="24"/>
+	<AptGeometryData id="SaveLoad_25" File="SaveLoad_geometry\25.ru" AptID="25"/>
+	<AptGeometryData id="SaveLoad_28" File="SaveLoad_geometry\28.ru" AptID="28"/>
+	<AptGeometryData id="SaveLoad_38" File="SaveLoad_geometry\38.ru" AptID="38"/>
+	<AptGeometryData id="SaveLoad_39" File="SaveLoad_geometry\39.ru" AptID="39"/>
+	<AptGeometryData id="SaveLoad_4" File="SaveLoad_geometry\4.ru" AptID="4"/>
+	<AptGeometryData id="SaveLoad_46" File="SaveLoad_geometry\46.ru" AptID="46"/>
+	<AptGeometryData id="SaveLoad_47" File="SaveLoad_geometry\47.ru" AptID="47"/>
+	<AptGeometryData id="SaveLoad_62" File="SaveLoad_geometry\62.ru" AptID="62"/>
+	<AptGeometryData id="SaveLoad_63" File="SaveLoad_geometry\63.ru" AptID="63"/>
+	<AptGeometryData id="SaveLoad_7" File="SaveLoad_geometry\7.ru" AptID="7"/>
+	<AptGeometryData id="SaveLoad_77" File="SaveLoad_geometry\77.ru" AptID="77"/>
+	<AptGeometryData id="SaveLoad_81" File="SaveLoad_geometry\81.ru" AptID="81"/>
+	<AptGeometryData id="SaveLoad_9" File="SaveLoad_geometry\9.ru" AptID="9"/>
+	<AptGeometryData id="SaveLoad_93" File="SaveLoad_geometry\93.ru" AptID="93"/>
+	<Texture id="apt_SaveLoad_1" File="art\Textures\apt_SaveLoad_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+	<Texture id="apt_SaveLoad_2" File="art\Textures\apt_SaveLoad_2.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+</AssetDeclaration>

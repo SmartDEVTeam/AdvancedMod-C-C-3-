@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- XML: E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\TacticalHUDRadar\art\textures\apt_TacticalHUDRadar.xml
+ Directories:
+    E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\TacticalHUDRadar\TacticalHUDRadar_textures\
+ Extend RGB   : Yes
+ Gutter (1)   : No
+ Alpha Channel: Yes
+ Compressed   : No
+ Image Size   : 1024 x 1024
+ Keep Dirs Seperate: Yes
+-->
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- Packed Texture: apt_TacticalHUDRadar_1.tga -->
+	<Texture id="apt_TacticalHUDRadar_1" File="apt_TacticalHUDRadar_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="1" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="10" y="13"/>
+		<Coords x="675" y="96"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="7" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="12" y="12"/>
+		<Coords x="661" y="96"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="5" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="10" y="15"/>
+		<Coords x="649" y="95"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="3" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="12" y="13"/>
+		<Coords x="635" y="95"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="9" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="14" y="17"/>
+		<Coords x="1003" y="93"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="47" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="12" y="23"/>
+		<Coords x="1003" y="68"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="81" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="15" y="33"/>
+		<Coords x="1003" y="33"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="41" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="24" y="24"/>
+		<Coords x="609" y="95"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="27" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="20" y="30"/>
+		<Coords x="1003" y="1"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="44" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="39" y="40"/>
+		<Coords x="568" y="95"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="12" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="43" y="44"/>
+		<Coords x="845" y="79"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="34" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="48" y="47"/>
+		<Coords x="895" y="59"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="56" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="48" y="47"/>
+		<Coords x="953" y="50"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="67" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="48" y="47"/>
+		<Coords x="953" y="1"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="121" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="182" y="15"/>
+		<Coords x="661" y="79"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="78" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="56" y="56"/>
+		<Coords x="895" y="1"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="61" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="76" y="76"/>
+		<Coords x="817" y="1"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="37" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="76" y="76"/>
+		<Coords x="739" y="1"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="72" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="76" y="76"/>
+		<Coords x="661" y="1"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="16" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="91" y="92"/>
+		<Coords x="568" y="1"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="108" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="180" y="180"/>
+		<Coords x="386" y="1"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="101" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="181" y="182"/>
+		<Coords x="1" y="211"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="105" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="181" y="182"/>
+		<Coords x="203" y="185"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="103" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="181" y="182"/>
+		<Coords x="203" y="1"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="118" Texture="apt_TacticalHUDRadar_1" Rotated="false">
+		<Dimensions x="200" y="208"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+
+</AssetDeclaration>

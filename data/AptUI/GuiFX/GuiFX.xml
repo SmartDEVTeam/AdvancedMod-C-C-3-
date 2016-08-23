@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<AptAptData id="GuiFX_apt" File="GuiFX.apt" />
+	<AptConstData id="GuiFX_const" File="GuiFX.const" />
+	<AptDatData id="GuiFX_dat" File="GuiFX.dat" />
+	<AptGeometryData id="GuiFX_1" File="GuiFX_geometry\1.ru" AptID="1"/>
+	<AptGeometryData id="GuiFX_10" File="GuiFX_geometry\10.ru" AptID="10"/>
+	<AptGeometryData id="GuiFX_102" File="GuiFX_geometry\102.ru" AptID="102"/>
+	<AptGeometryData id="GuiFX_105" File="GuiFX_geometry\105.ru" AptID="105"/>
+	<AptGeometryData id="GuiFX_109" File="GuiFX_geometry\109.ru" AptID="109"/>
+	<AptGeometryData id="GuiFX_14" File="GuiFX_geometry\14.ru" AptID="14"/>
+	<AptGeometryData id="GuiFX_18" File="GuiFX_geometry\18.ru" AptID="18"/>
+	<AptGeometryData id="GuiFX_22" File="GuiFX_geometry\22.ru" AptID="22"/>
+	<AptGeometryData id="GuiFX_27" File="GuiFX_geometry\27.ru" AptID="27"/>
+	<AptGeometryData id="GuiFX_30" File="GuiFX_geometry\30.ru" AptID="30"/>
+	<AptGeometryData id="GuiFX_4" File="GuiFX_geometry\4.ru" AptID="4"/>
+	<AptGeometryData id="GuiFX_47" File="GuiFX_geometry\47.ru" AptID="47"/>
+	<AptGeometryData id="GuiFX_48" File="GuiFX_geometry\48.ru" AptID="48"/>
+	<AptGeometryData id="GuiFX_50" File="GuiFX_geometry\50.ru" AptID="50"/>
+	<AptGeometryData id="GuiFX_52" File="GuiFX_geometry\52.ru" AptID="52"/>
+	<AptGeometryData id="GuiFX_66" File="GuiFX_geometry\66.ru" AptID="66"/>
+	<AptGeometryData id="GuiFX_69" File="GuiFX_geometry\69.ru" AptID="69"/>
+	<AptGeometryData id="GuiFX_7" File="GuiFX_geometry\7.ru" AptID="7"/>
+	<AptGeometryData id="GuiFX_75" File="GuiFX_geometry\75.ru" AptID="75"/>
+	<AptGeometryData id="GuiFX_76" File="GuiFX_geometry\76.ru" AptID="76"/>
+	<AptGeometryData id="GuiFX_78" File="GuiFX_geometry\78.ru" AptID="78"/>
+	<AptGeometryData id="GuiFX_80" File="GuiFX_geometry\80.ru" AptID="80"/>
+	<AptGeometryData id="GuiFX_83" File="GuiFX_geometry\83.ru" AptID="83"/>
+	<AptGeometryData id="GuiFX_85" File="GuiFX_geometry\85.ru" AptID="85"/>
+	<AptGeometryData id="GuiFX_89" File="GuiFX_geometry\89.ru" AptID="89"/>
+	<AptGeometryData id="GuiFX_91" File="GuiFX_geometry\91.ru" AptID="91"/>
+	<Texture id="apt_GuiFX_1" File="art\Textures\apt_GuiFX_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+	<Texture id="apt_GuiFX_2" File="art\Textures\apt_GuiFX_2.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+	<Texture id="apt_GuiFX_26" File="art\Textures\apt_GuiFX_26.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+	<Texture id="apt_GuiFX_3" File="art\Textures\apt_GuiFX_3.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+</AssetDeclaration>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- XML: E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\YesNoDialog\art\textures\apt_YesNoDialog.xml
+ Directories:
+    E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\YesNoDialog\YesNoDialog_textures\
+ Extend RGB   : Yes
+ Gutter (1)   : No
+ Alpha Channel: Yes
+ Compressed   : No
+ Image Size   : 1024 x 1024
+ Keep Dirs Seperate: Yes
+-->
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- Packed Texture: apt_YesNoDialog_1.tga -->
+	<Texture id="apt_YesNoDialog_1" File="apt_YesNoDialog_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="22" Texture="apt_YesNoDialog_1" Rotated="false">
+		<Dimensions x="200" y="22"/>
+		<Coords x="178" y="346"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="18" Texture="apt_YesNoDialog_1" Rotated="false">
+		<Dimensions x="175" y="30"/>
+		<Coords x="1" y="327"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="9" Texture="apt_YesNoDialog_1" Rotated="false">
+		<Dimensions x="175" y="30"/>
+		<Coords x="185" y="314"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="30" Texture="apt_YesNoDialog_1" Rotated="false">
+		<Dimensions x="181" y="42"/>
+		<Coords x="185" y="270"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="25" Texture="apt_YesNoDialog_1" Rotated="false">
+		<Dimensions x="182" y="55"/>
+		<Coords x="1" y="270"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="6" Texture="apt_YesNoDialog_1" Rotated="false">
+		<Dimensions x="433" y="267"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+
+</AssetDeclaration>

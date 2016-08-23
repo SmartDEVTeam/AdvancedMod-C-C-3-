@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- XML: E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\Options\art\textures\apt_Options.xml
+ Directories:
+    E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\Options\Options_textures\
+ Extend RGB   : Yes
+ Gutter (1)   : No
+ Alpha Channel: Yes
+ Compressed   : No
+ Image Size   : 1024 x 1024
+ Keep Dirs Seperate: Yes
+-->
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- Packed Texture: apt_Options_1.tga -->
+	<Texture id="apt_Options_1" File="apt_Options_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="82" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="129" y="1"/>
+		<Coords x="1" y="679"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="85" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="129" y="1"/>
+		<Coords x="309" y="676"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="59" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="30" y="18"/>
+		<Coords x="982" y="21"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="55" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="30" y="18"/>
+		<Coords x="982" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="45" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="42" y="25"/>
+		<Coords x="588" y="663"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="40" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="42" y="25"/>
+		<Coords x="544" y="663"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="65" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="73" y="32"/>
+		<Coords x="469" y="663"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="62" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="73" y="32"/>
+		<Coords x="812" y="650"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="103" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="64" y="39"/>
+		<Coords x="611" y="554"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="13" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="158" y="23"/>
+		<Coords x="309" y="651"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="8" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="152" y="26"/>
+		<Coords x="155" y="651"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="5" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="152" y="26"/>
+		<Coords x="1" y="651"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="48" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="99" y="40"/>
+		<Coords x="913" y="649"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="51" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="99" y="40"/>
+		<Coords x="812" y="608"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="1" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="159" y="34"/>
+		<Coords x="502" y="627"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="106" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="77" y="93"/>
+		<Coords x="914" y="554"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="99" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="116" y="81"/>
+		<Coords x="694" y="608"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="34" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="499" y="22"/>
+		<Coords x="1" y="627"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="76" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="218" y="52"/>
+		<Coords x="694" y="554"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="24" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="691" y="30"/>
+		<Coords x="1" y="595"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="109" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="608" y="39"/>
+		<Coords x="1" y="554"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="69" Texture="apt_Options_1" Rotated="false">
+		<Dimensions x="979" y="551"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+
+	<!-- Packed Texture: apt_Options_2.tga -->
+	<Texture id="apt_Options_2" File="apt_Options_2.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="161" Texture="apt_Options_2" Rotated="false">
+		<Dimensions x="979" y="551"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+
+	<!-- Packed Texture: apt_Options_3.tga -->
+	<Texture id="apt_Options_3" File="apt_Options_3.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="114" Texture="apt_Options_3" Rotated="false">
+		<Dimensions x="979" y="551"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+
+	<!-- Packed Texture: apt_Options_4.tga -->
+	<Texture id="apt_Options_4" File="apt_Options_4.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="126" Texture="apt_Options_4" Rotated="false">
+		<Dimensions x="979" y="551"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+
+</AssetDeclaration>

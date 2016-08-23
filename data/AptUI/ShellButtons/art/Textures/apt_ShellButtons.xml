@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- XML: E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\ShellButtons\art\textures\apt_ShellButtons.xml
+ Directories:
+    E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\ShellButtons\ShellButtons_textures\
+ Extend RGB   : Yes
+ Gutter (1)   : No
+ Alpha Channel: Yes
+ Compressed   : No
+ Image Size   : 1024 x 1024
+ Keep Dirs Seperate: Yes
+-->
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- Packed Texture: apt_ShellButtons_1.tga -->
+	<Texture id="apt_ShellButtons_1" File="apt_ShellButtons_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="3" Texture="apt_ShellButtons_1" Rotated="false">
+		<Dimensions x="43" y="26"/>
+		<Coords x="387" y="58"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="2" Texture="apt_ShellButtons_1" Rotated="false">
+		<Dimensions x="43" y="26"/>
+		<Coords x="439" y="43"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="4" Texture="apt_ShellButtons_1" Rotated="false">
+		<Dimensions x="60" y="40"/>
+		<Coords x="439" y="1"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="1" Texture="apt_ShellButtons_1" Rotated="false">
+		<Dimensions x="200" y="22"/>
+		<Coords x="185" y="58"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="9" Texture="apt_ShellButtons_1" Rotated="false">
+		<Dimensions x="182" y="55"/>
+		<Coords x="255" y="1"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="6" Texture="apt_ShellButtons_1" Rotated="false">
+		<Dimensions x="182" y="55"/>
+		<Coords x="1" y="172"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="7" Texture="apt_ShellButtons_1" Rotated="false">
+		<Dimensions x="182" y="55"/>
+		<Coords x="1" y="115"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="8" Texture="apt_ShellButtons_1" Rotated="false">
+		<Dimensions x="182" y="55"/>
+		<Coords x="1" y="58"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="5" Texture="apt_ShellButtons_1" Rotated="false">
+		<Dimensions x="252" y="55"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+
+</AssetDeclaration>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<AptAptData id="SkirmishOpenPlay_apt" File="SkirmishOpenPlay.apt" />
+	<AptConstData id="SkirmishOpenPlay_const" File="SkirmishOpenPlay.const" />
+	<AptDatData id="SkirmishOpenPlay_dat" File="SkirmishOpenPlay.dat" />
+	<AptGeometryData id="SkirmishOpenPlay_1" File="SkirmishOpenPlay_geometry\1.ru" AptID="1"/>
+	<AptGeometryData id="SkirmishOpenPlay_5" File="SkirmishOpenPlay_geometry\5.ru" AptID="5"/>
+</AssetDeclaration>

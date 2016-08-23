@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- XML: E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\SaveLoad\art\textures\apt_SaveLoad.xml
+ Directories:
+    E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\SaveLoad\SaveLoad_textures\
+ Extend RGB   : Yes
+ Gutter (1)   : No
+ Alpha Channel: Yes
+ Compressed   : No
+ Image Size   : 1024 x 1024
+ Keep Dirs Seperate: Yes
+-->
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- Packed Texture: apt_SaveLoad_1.tga -->
+	<Texture id="apt_SaveLoad_1" File="apt_SaveLoad_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="103" Texture="apt_SaveLoad_1" Rotated="false">
+		<Dimensions x="78" y="39"/>
+		<Coords x="902" y="96"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="102" Texture="apt_SaveLoad_1" Rotated="false">
+		<Dimensions x="145" y="39"/>
+		<Coords x="860" y="951"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="104" Texture="apt_SaveLoad_1" Rotated="false">
+		<Dimensions x="77" y="93"/>
+		<Coords x="902" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="22" Texture="apt_SaveLoad_1" Rotated="false">
+		<Dimensions x="857" y="67"/>
+		<Coords x="1" y="951"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="76" Texture="apt_SaveLoad_1" Rotated="false">
+		<Dimensions x="899" y="461"/>
+		<Coords x="1" y="488"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="20" Texture="apt_SaveLoad_1" Rotated="false">
+		<Dimensions x="899" y="485"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+
+	<!-- Packed Texture: apt_SaveLoad_2.tga -->
+	<Texture id="apt_SaveLoad_2" File="apt_SaveLoad_2.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="23" Texture="apt_SaveLoad_2" Rotated="false">
+		<Dimensions x="293" y="27"/>
+		<Coords x="436" y="42"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="101" Texture="apt_SaveLoad_2" Rotated="false">
+		<Dimensions x="346" y="39"/>
+		<Coords x="436" y="1"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="27" Texture="apt_SaveLoad_2" Rotated="false">
+		<Dimensions x="856" y="40"/>
+		<Coords x="1" y="270"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="3" Texture="apt_SaveLoad_2" Rotated="false">
+		<Dimensions x="433" y="267"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="1024" y="512"/>
+	</PackedTextureImage>
+
+</AssetDeclaration>

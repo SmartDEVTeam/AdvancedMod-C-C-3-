@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<AptAptData id="ShellButtons_apt" File="ShellButtons.apt" />
+	<AptConstData id="ShellButtons_const" File="ShellButtons.const" />
+	<AptDatData id="ShellButtons_dat" File="ShellButtons.dat" />
+	<AptGeometryData id="ShellButtons_10" File="ShellButtons_geometry\10.ru" AptID="10"/>
+	<AptGeometryData id="ShellButtons_12" File="ShellButtons_geometry\12.ru" AptID="12"/>
+	<AptGeometryData id="ShellButtons_13" File="ShellButtons_geometry\13.ru" AptID="13"/>
+	<AptGeometryData id="ShellButtons_16" File="ShellButtons_geometry\16.ru" AptID="16"/>
+	<AptGeometryData id="ShellButtons_18" File="ShellButtons_geometry\18.ru" AptID="18"/>
+	<AptGeometryData id="ShellButtons_20" File="ShellButtons_geometry\20.ru" AptID="20"/>
+	<AptGeometryData id="ShellButtons_21" File="ShellButtons_geometry\21.ru" AptID="21"/>
+	<AptGeometryData id="ShellButtons_22" File="ShellButtons_geometry\22.ru" AptID="22"/>
+	<AptGeometryData id="ShellButtons_26" File="ShellButtons_geometry\26.ru" AptID="26"/>
+	<AptGeometryData id="ShellButtons_32" File="ShellButtons_geometry\32.ru" AptID="32"/>
+	<AptGeometryData id="ShellButtons_35" File="ShellButtons_geometry\35.ru" AptID="35"/>
+	<AptGeometryData id="ShellButtons_37" File="ShellButtons_geometry\37.ru" AptID="37"/>
+	<AptGeometryData id="ShellButtons_40" File="ShellButtons_geometry\40.ru" AptID="40"/>
+	<AptGeometryData id="ShellButtons_49" File="ShellButtons_geometry\49.ru" AptID="49"/>
+	<Texture id="apt_ShellButtons_1" File="art\Textures\apt_ShellButtons_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+</AssetDeclaration>

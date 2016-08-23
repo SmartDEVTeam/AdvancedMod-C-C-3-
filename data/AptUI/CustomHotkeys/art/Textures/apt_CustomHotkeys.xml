@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- XML: E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\CustomHotkeys\art\textures\apt_CustomHotkeys.xml
+ Directories:
+    E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\CustomHotkeys\CustomHotkeys_textures\
+ Extend RGB   : Yes
+ Gutter (1)   : No
+ Alpha Channel: Yes
+ Compressed   : No
+ Image Size   : 1024 x 1024
+ Keep Dirs Seperate: Yes
+-->
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- Packed Texture: apt_CustomHotkeys_1.tga -->
+	<Texture id="apt_CustomHotkeys_1" File="apt_CustomHotkeys_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="267" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="129" y="1"/>
+		<Coords x="804" y="924"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="270" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="129" y="1"/>
+		<Coords x="459" y="923"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="128" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="11" y="15"/>
+		<Coords x="1005" y="500"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="131" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="11" y="15"/>
+		<Coords x="1005" y="483"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="114" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="21" y="11"/>
+		<Coords x="999" y="934"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="111" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="21" y="11"/>
+		<Coords x="999" y="921"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="96" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="19" y="15"/>
+		<Coords x="978" y="921"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="99" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="19" y="15"/>
+		<Coords x="957" y="921"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="117" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="32" y="11"/>
+		<Coords x="804" y="911"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="150" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="20" y="18"/>
+		<Coords x="782" y="911"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="147" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="20" y="18"/>
+		<Coords x="760" y="910"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="195" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="26" y="14"/>
+		<Coords x="996" y="905"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="198" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="26" y="14"/>
+		<Coords x="968" y="905"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="165" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="23" y="18"/>
+		<Coords x="813" y="891"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="162" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="23" y="18"/>
+		<Coords x="788" y="891"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="124" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="20" y="22"/>
+		<Coords x="1003" y="696"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="68" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="26" y="17"/>
+		<Coords x="760" y="891"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="79" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="23" y="20"/>
+		<Coords x="993" y="883"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="65" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="23" y="20"/>
+		<Coords x="968" y="883"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="62" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="23" y="20"/>
+		<Coords x="993" y="861"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="82" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="23" y="20"/>
+		<Coords x="968" y="861"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="107" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="29" y="19"/>
+		<Coords x="937" y="752"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="5" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="24" y="24"/>
+		<Coords x="984" y="750"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="8" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="24" y="24"/>
+		<Coords x="984" y="724"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="201" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="34" y="17"/>
+		<Coords x="985" y="622"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="92" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="27" y="23"/>
+		<Coords x="989" y="597"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="13" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="32" y="21"/>
+		<Coords x="989" y="574"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="143" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="28" y="26"/>
+		<Coords x="989" y="546"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="191" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="34" y="22"/>
+		<Coords x="982" y="522"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="135" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="21" y="37"/>
+		<Coords x="982" y="483"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="158" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="31" y="26"/>
+		<Coords x="982" y="455"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="75" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="31" y="28"/>
+		<Coords x="982" y="425"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="58" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="31" y="28"/>
+		<Coords x="982" y="395"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="324" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="30" y="33"/>
+		<Coords x="982" y="360"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="327" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="30" y="33"/>
+		<Coords x="982" y="325"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="1" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="32" y="32"/>
+		<Coords x="982" y="291"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="410" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="45" y="26"/>
+		<Coords x="937" y="724"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="229" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="31" y="38"/>
+		<Coords x="982" y="251"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="232" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="31" y="38"/>
+		<Coords x="982" y="211"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="215" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="38" y="38"/>
+		<Coords x="982" y="171"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="212" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="38" y="38"/>
+		<Coords x="982" y="131"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="218" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="40" y="39"/>
+		<Coords x="982" y="90"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="183" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="40" y="39"/>
+		<Coords x="982" y="49"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="407" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="64" y="26"/>
+		<Coords x="937" y="696"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="180" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="42" y="41"/>
+		<Coords x="981" y="653"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="177" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="42" y="41"/>
+		<Coords x="937" y="653"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="225" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="39" y="46"/>
+		<Coords x="982" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="208" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="46" y="46"/>
+		<Coords x="937" y="605"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="173" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="50" y="49"/>
+		<Coords x="937" y="554"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="367" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="100" y="26"/>
+		<Coords x="847" y="994"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="349" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="100" y="26"/>
+		<Coords x="745" y="994"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="392" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="314" y="9"/>
+		<Coords x="317" y="1005"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="337" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="314" y="9"/>
+		<Coords x="1" y="1004"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="344" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="314" y="9"/>
+		<Coords x="429" y="994"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="32" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="158" y="23"/>
+		<Coords x="152" y="968"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="51" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="101" y="36"/>
+		<Coords x="840" y="956"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="48" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="101" y="36"/>
+		<Coords x="737" y="956"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="25" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="152" y="26"/>
+		<Coords x="583" y="956"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="28" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="152" y="26"/>
+		<Coords x="429" y="956"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="43" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="109" y="44"/>
+		<Coords x="318" y="956"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="21" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="159" y="34"/>
+		<Coords x="599" y="891"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="309" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="138" y="40"/>
+		<Coords x="459" y="881"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="313" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="123" y="58"/>
+		<Coords x="843" y="861"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="398" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="116" y="81"/>
+		<Coords x="898" y="778"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="359" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="236" y="40"/>
+		<Coords x="605" y="849"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="280" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="291" y="33"/>
+		<Coords x="605" y="814"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="290" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="291" y="34"/>
+		<Coords x="605" y="778"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="262" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="637" y="22"/>
+		<Coords x="318" y="932"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="297" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="144" y="101"/>
+		<Coords x="459" y="778"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="281" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="139" y="152"/>
+		<Coords x="318" y="778"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="282" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="164" y="188"/>
+		<Coords x="152" y="778"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="303" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="149" y="224"/>
+		<Coords x="1" y="778"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="341" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="310" y="222"/>
+		<Coords x="625" y="554"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="389" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="310" y="222"/>
+		<Coords x="313" y="554"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="334" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="310" y="222"/>
+		<Coords x="1" y="554"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="239" Texture="apt_CustomHotkeys_1" Rotated="false">
+		<Dimensions x="979" y="551"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+
+	<!-- Packed Texture: apt_CustomHotkeys_2.tga -->
+	<Texture id="apt_CustomHotkeys_2" File="apt_CustomHotkeys_2.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="279" Texture="apt_CustomHotkeys_2" Rotated="false">
+		<Dimensions x="116" y="19"/>
+		<Coords x="1" y="335"/>
+		<TextureDimensions x="128" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="286" Texture="apt_CustomHotkeys_2" Rotated="false">
+		<Dimensions x="90" y="332"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="128" y="512"/>
+	</PackedTextureImage>
+
+</AssetDeclaration>

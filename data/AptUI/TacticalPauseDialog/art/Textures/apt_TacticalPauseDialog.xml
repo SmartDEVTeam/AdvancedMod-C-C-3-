@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- XML: E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\TacticalPauseDialog\art\textures\apt_TacticalPauseDialog.xml
+ Directories:
+    E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\TacticalPauseDialog\TacticalPauseDialog_textures\
+ Extend RGB   : Yes
+ Gutter (1)   : No
+ Alpha Channel: Yes
+ Compressed   : No
+ Image Size   : 1024 x 1024
+ Keep Dirs Seperate: Yes
+-->
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- Packed Texture: apt_TacticalPauseDialog_1.tga -->
+	<Texture id="apt_TacticalPauseDialog_1" File="apt_TacticalPauseDialog_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="22" Texture="apt_TacticalPauseDialog_1" Rotated="false">
+		<Dimensions x="200" y="22"/>
+		<Coords x="1" y="467"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="10" Texture="apt_TacticalPauseDialog_1" Rotated="false">
+		<Dimensions x="250" y="30"/>
+		<Coords x="259" y="455"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="18" Texture="apt_TacticalPauseDialog_1" Rotated="false">
+		<Dimensions x="250" y="30"/>
+		<Coords x="259" y="423"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="25" Texture="apt_TacticalPauseDialog_1" Rotated="false">
+		<Dimensions x="182" y="55"/>
+		<Coords x="328" y="1"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="32" Texture="apt_TacticalPauseDialog_1" Rotated="false">
+		<Dimensions x="256" y="42"/>
+		<Coords x="1" y="423"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="2" Texture="apt_TacticalPauseDialog_1" Rotated="false">
+		<Dimensions x="325" y="420"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+
+</AssetDeclaration>

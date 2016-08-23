@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- XML: E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\TacticalPlayerPowerCommandButton\art\textures\apt_TacticalPlayerPowerCommandButton.xml
+ Directories:
+    E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\TacticalPlayerPowerCommandButton\TacticalPlayerPowerCommandButton_textures\
+ Extend RGB   : Yes
+ Gutter (1)   : No
+ Alpha Channel: Yes
+ Compressed   : No
+ Image Size   : 1024 x 1024
+ Keep Dirs Seperate: Yes
+-->
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- Packed Texture: apt_TacticalPlayerPowerCommandButton_1.tga -->
+	<Texture id="apt_TacticalPlayerPowerCommandButton_1" File="apt_TacticalPlayerPowerCommandButton_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="149" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="58" y="60"/>
+		<Coords x="265" y="133"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="8" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="199" y="133"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="4" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="397" y="67"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="6" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="331" y="67"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="144" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="265" y="67"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="141" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="199" y="67"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="139" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="396" y="1"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="137" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="330" y="1"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="127" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="264" y="1"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="125" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="198" y="1"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="123" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="133" y="133"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="117" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="67" y="133"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="114" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="1" y="133"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="111" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="133" y="67"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="109" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="67" y="67"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="107" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="1" y="67"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="104" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="132" y="1"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="102" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="66" y="1"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="100" Texture="apt_TacticalPlayerPowerCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="0" y="0"/>
+		<TextureDimensions x="512" y="256"/>
+	</PackedTextureImage>
+
+</AssetDeclaration>

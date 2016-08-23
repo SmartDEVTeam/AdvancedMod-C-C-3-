@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- XML: C:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\ShellContent\art\textures\apt_ShellContent.xml
+ Directories:
+    C:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\ShellContent\ShellContent_textures\
+ Extend RGB   : Yes
+ Gutter (1)   : No
+ Alpha Channel: Yes
+ Compressed   : No
+ Image Size   : 1024 x 1024
+ Keep Dirs Seperate: Yes
+-->
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- Packed Texture: apt_ShellContent_1.tga -->
+	<Texture id="apt_ShellContent_1" File="apt_ShellContent_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="5" Texture="apt_ShellContent_1" Rotated="false">
+		<Dimensions x="19" y="24"/>
+		<Coords x="805" y="771"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="1" Texture="apt_ShellContent_1" Rotated="false">
+		<Dimensions x="220" y="14"/>
+		<Coords x="583" y="771"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="3" Texture="apt_ShellContent_1" Rotated="false">
+		<Dimensions x="84" y="128"/>
+		<Coords x="497" y="771"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="4" Texture="apt_ShellContent_1" Rotated="false">
+		<Dimensions x="494" y="252"/>
+		<Coords x="1" y="771"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="2" Texture="apt_ShellContent_1" Rotated="false">
+		<Dimensions x="1024" y="768"/>
+		<Coords x="0" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+
+</AssetDeclaration>

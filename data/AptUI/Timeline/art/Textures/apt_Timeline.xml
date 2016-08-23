@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- XML: E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\Timeline\art\textures\apt_Timeline.xml
+ Directories:
+    E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\Timeline\Timeline_textures\
+ Extend RGB   : Yes
+ Gutter (1)   : No
+ Alpha Channel: Yes
+ Compressed   : No
+ Image Size   : 1024 x 1024
+ Keep Dirs Seperate: Yes
+-->
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- Packed Texture: apt_Timeline_1.tga -->
+	<Texture id="apt_Timeline_1" File="apt_Timeline_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="56" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="129" y="1"/>
+		<Coords x="790" y="639"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="59" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="129" y="1"/>
+		<Coords x="790" y="636"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="6" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="18" y="18"/>
+		<Coords x="995" y="325"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="135" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="19" y="38"/>
+		<Coords x="999" y="285"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="45" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="35" y="28"/>
+		<Coords x="960" y="388"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="42" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="33" y="32"/>
+		<Coords x="960" y="354"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="110" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="33" y="33"/>
+		<Coords x="960" y="319"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="48" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="37" y="32"/>
+		<Coords x="960" y="285"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="11" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="50" y="41"/>
+		<Coords x="960" y="242"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="140" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="50" y="41"/>
+		<Coords x="960" y="199"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="101" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="46" y="47"/>
+		<Coords x="960" y="150"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="104" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="46" y="47"/>
+		<Coords x="960" y="101"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="8" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="47" y="47"/>
+		<Coords x="960" y="52"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="107" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="49" y="49"/>
+		<Coords x="960" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="122" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="95" y="39"/>
+		<Coords x="759" y="541"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="120" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="77" y="93"/>
+		<Coords x="871" y="541"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="32" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="231" y="43"/>
+		<Coords x="557" y="633"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="21" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="276" y="39"/>
+		<Coords x="279" y="623"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="17" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="276" y="39"/>
+		<Coords x="1" y="623"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="24" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="279" y="49"/>
+		<Coords x="590" y="582"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="125" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="587" y="39"/>
+		<Coords x="1" y="582"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="127" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="756" y="39"/>
+		<Coords x="1" y="541"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="53" Texture="apt_Timeline_1" Rotated="false">
+		<Dimensions x="957" y="538"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+
+</AssetDeclaration>

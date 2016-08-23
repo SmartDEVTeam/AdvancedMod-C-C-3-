@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- XML: E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\MissionSummary\art\textures\apt_MissionSummary.xml
+ Directories:
+    E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\MissionSummary\MissionSummary_textures\
+ Extend RGB   : Yes
+ Gutter (1)   : No
+ Alpha Channel: Yes
+ Compressed   : No
+ Image Size   : 1024 x 1024
+ Keep Dirs Seperate: Yes
+-->
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- Packed Texture: apt_MissionSummary_1.tga -->
+	<Texture id="apt_MissionSummary_1" File="apt_MissionSummary_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="122" Texture="apt_MissionSummary_1" Rotated="false">
+		<Dimensions x="26" y="26"/>
+		<Coords x="960" y="903"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="136" Texture="apt_MissionSummary_1" Rotated="false">
+		<Dimensions x="48" y="48"/>
+		<Coords x="960" y="853"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="142" Texture="apt_MissionSummary_1" Rotated="false">
+		<Dimensions x="48" y="48"/>
+		<Coords x="960" y="803"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="37" Texture="apt_MissionSummary_1" Rotated="false">
+		<Dimensions x="153" y="29"/>
+		<Coords x="526" y="982"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="219" Texture="apt_MissionSummary_1" Rotated="false">
+		<Dimensions x="74" y="74"/>
+		<Coords x="943" y="941"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="195" Texture="apt_MissionSummary_1" Rotated="false">
+		<Dimensions x="197" y="62"/>
+		<Coords x="744" y="941"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="212" Texture="apt_MissionSummary_1" Rotated="false">
+		<Dimensions x="59" y="330"/>
+		<Coords x="960" y="471"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="181" Texture="apt_MissionSummary_1" Rotated="false">
+		<Dimensions x="523" y="39"/>
+		<Coords x="1" y="982"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="168" Texture="apt_MissionSummary_1" Rotated="false">
+		<Dimensions x="61" y="468"/>
+		<Coords x="960" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="155" Texture="apt_MissionSummary_1" Rotated="false">
+		<Dimensions x="741" y="39"/>
+		<Coords x="1" y="941"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="174" Texture="apt_MissionSummary_1" Rotated="false">
+		<Dimensions x="957" y="468"/>
+		<Coords x="1" y="471"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="162" Texture="apt_MissionSummary_1" Rotated="false">
+		<Dimensions x="957" y="468"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+
+	<!-- Packed Texture: apt_MissionSummary_2.tga -->
+	<Texture id="apt_MissionSummary_2" File="apt_MissionSummary_2.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="157" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="95" y="39"/>
+		<Coords x="748" y="955"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="26" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="135" y="29"/>
+		<Coords x="1" y="988"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="17" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="135" y="30"/>
+		<Coords x="1" y="956"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="201" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="275" y="29"/>
+		<Coords x="471" y="986"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="130" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="275" y="29"/>
+		<Coords x="471" y="955"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="125" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="197" y="62"/>
+		<Coords x="643" y="891"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="139" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="114" y="114"/>
+		<Coords x="859" y="885"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="145" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="114" y="114"/>
+		<Coords x="859" y="769"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="4" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="170" y="105"/>
+		<Coords x="471" y="831"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="209" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="59" y="330"/>
+		<Coords x="959" y="333"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="206" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="59" y="330"/>
+		<Coords x="959" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="12" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="176" y="129"/>
+		<Coords x="1" y="825"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="1" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="190" y="120"/>
+		<Coords x="667" y="769"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="9" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="194" y="143"/>
+		<Coords x="471" y="686"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="85" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="222" y="330"/>
+		<Coords x="247" y="686"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="70" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="244" y="352"/>
+		<Coords x="1" y="471"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="47" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="283" y="352"/>
+		<Coords x="669" y="415"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="50" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="349" y="327"/>
+		<Coords x="318" y="357"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="101" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="285" y="412"/>
+		<Coords x="672" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="76" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="352" y="354"/>
+		<Coords x="318" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="171" Texture="apt_MissionSummary_2" Rotated="false">
+		<Dimensions x="315" y="468"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+
+	<!-- Packed Texture: apt_MissionSummary_3.tga -->
+	<Texture id="apt_MissionSummary_3" File="apt_MissionSummary_3.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="31" Texture="apt_MissionSummary_3" Rotated="false">
+		<Dimensions x="130" y="28"/>
+		<Coords x="886" y="172"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="216" Texture="apt_MissionSummary_3" Rotated="false">
+		<Dimensions x="74" y="74"/>
+		<Coords x="886" y="96"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="156" Texture="apt_MissionSummary_3" Rotated="false">
+		<Dimensions x="77" y="93"/>
+		<Coords x="886" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="20" Texture="apt_MissionSummary_3" Rotated="false">
+		<Dimensions x="566" y="21"/>
+		<Coords x="1" y="761"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="192" Texture="apt_MissionSummary_3" Rotated="false">
+		<Dimensions x="566" y="21"/>
+		<Coords x="1" y="738"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="115" Texture="apt_MissionSummary_3" Rotated="false">
+		<Dimensions x="174" y="355"/>
+		<Coords x="614" y="593"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="98" Texture="apt_MissionSummary_3" Rotated="false">
+		<Dimensions x="174" y="355"/>
+		<Coords x="1" y="381"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="110" Texture="apt_MissionSummary_3" Rotated="false">
+		<Dimensions x="174" y="355"/>
+		<Coords x="438" y="333"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="44" Texture="apt_MissionSummary_3" Rotated="false">
+		<Dimensions x="229" y="294"/>
+		<Coords x="207" y="333"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="63" Texture="apt_MissionSummary_3" Rotated="false">
+		<Dimensions x="229" y="294"/>
+		<Coords x="655" y="297"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="60" Texture="apt_MissionSummary_3" Rotated="false">
+		<Dimensions x="229" y="294"/>
+		<Coords x="655" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="90" Texture="apt_MissionSummary_3" Rotated="false">
+		<Dimensions x="222" y="330"/>
+		<Coords x="431" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="73" Texture="apt_MissionSummary_3" Rotated="false">
+		<Dimensions x="222" y="330"/>
+		<Coords x="207" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="95" Texture="apt_MissionSummary_3" Rotated="false">
+		<Dimensions x="204" y="378"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+
+</AssetDeclaration>

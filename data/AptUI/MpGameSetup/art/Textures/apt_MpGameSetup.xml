@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- XML: E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\MpGameSetup\art\textures\apt_MpGameSetup.xml
+ Directories:
+    E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\MpGameSetup\MpGameSetup_textures\
+ Extend RGB   : Yes
+ Gutter (1)   : No
+ Alpha Channel: Yes
+ Compressed   : No
+ Image Size   : 1024 x 1024
+ Keep Dirs Seperate: Yes
+-->
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- Packed Texture: apt_MpGameSetup_1.tga -->
+	<Texture id="apt_MpGameSetup_1" File="apt_MpGameSetup_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="27" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="20" y="10"/>
+		<Coords x="1002" y="351"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="129" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="20" y="13"/>
+		<Coords x="1002" y="336"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="50" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="30" y="18"/>
+		<Coords x="633" y="755"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="49" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="30" y="18"/>
+		<Coords x="974" y="742"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="51" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="26" y="26"/>
+		<Coords x="946" y="741"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="55" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="26" y="26"/>
+		<Coords x="976" y="714"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="54" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="26" y="26"/>
+		<Coords x="996" y="491"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="53" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="26" y="26"/>
+		<Coords x="996" y="463"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="52" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="26" y="26"/>
+		<Coords x="996" y="435"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="21" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="28" y="25"/>
+		<Coords x="946" y="714"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="20" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="28" y="25"/>
+		<Coords x="720" y="674"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="6" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="30" y="26"/>
+		<Coords x="720" y="646"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="7" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="30" y="26"/>
+		<Coords x="964" y="493"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="29" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="30" y="27"/>
+		<Coords x="964" y="464"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="28" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="30" y="27"/>
+		<Coords x="964" y="435"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="24" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="36" y="31"/>
+		<Coords x="964" y="402"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="23" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="36" y="31"/>
+		<Coords x="964" y="369"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="25" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="36" y="31"/>
+		<Coords x="964" y="336"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="8" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="40" y="35"/>
+		<Coords x="964" y="299"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="30" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="41" y="39"/>
+		<Coords x="964" y="258"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="40" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="60" y="30"/>
+		<Coords x="946" y="682"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="41" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="60" y="30"/>
+		<Coords x="946" y="650"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="37" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="94" y="30"/>
+		<Coords x="927" y="812"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="38" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="94" y="30"/>
+		<Coords x="927" y="780"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="42" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="68" y="42"/>
+		<Coords x="946" y="606"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="34" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="115" y="30"/>
+		<Coords x="118" y="928"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="36" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="115" y="30"/>
+		<Coords x="1" y="907"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="39" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="101" y="42"/>
+		<Coords x="696" y="824"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="35" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="122" y="42"/>
+		<Coords x="633" y="711"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="5" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="161" y="32"/>
+		<Coords x="766" y="914"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="26" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="70" y="81"/>
+		<Coords x="946" y="523"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="43" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="245" y="30"/>
+		<Coords x="139" y="896"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="44" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="245" y="30"/>
+		<Coords x="766" y="882"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="3" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="198" y="40"/>
+		<Coords x="139" y="854"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="46" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="270" y="30"/>
+		<Coords x="494" y="903"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="47" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="270" y="30"/>
+		<Coords x="494" y="871"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="31" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="200" y="45"/>
+		<Coords x="494" y="824"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="16" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="100" y="100"/>
+		<Coords x="392" y="810"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="15" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="100" y="100"/>
+		<Coords x="825" y="780"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="4" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="163" y="63"/>
+		<Coords x="555" y="646"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="45" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="251" y="42"/>
+		<Coords x="139" y="810"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="48" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="274" y="42"/>
+		<Coords x="549" y="780"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="1" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="408" y="40"/>
+		<Coords x="139" y="768"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="9" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="136" y="137"/>
+		<Coords x="1" y="768"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="17" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="77" y="255"/>
+		<Coords x="945" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="19" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="86" y="255"/>
+		<Coords x="858" y="523"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="18" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="86" y="255"/>
+		<Coords x="770" y="523"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="2" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="630" y="40"/>
+		<Coords x="1" y="726"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="22" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="213" y="121"/>
+		<Coords x="555" y="523"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="10" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="310" y="259"/>
+		<Coords x="633" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="33" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="407" y="259"/>
+		<Coords x="555" y="262"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="12" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="552" y="230"/>
+		<Coords x="1" y="494"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="11" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="552" y="230"/>
+		<Coords x="1" y="262"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="32" Texture="apt_MpGameSetup_1" Rotated="false">
+		<Dimensions x="630" y="259"/>
+		<Coords x="1" y="1"/>
+		<TextureDimensions x="1024" y="1024"/>
+	</PackedTextureImage>
+
+</AssetDeclaration>

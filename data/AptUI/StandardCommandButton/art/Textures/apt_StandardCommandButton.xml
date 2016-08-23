@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- XML: E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\StandardCommandButton\art\textures\apt_StandardCommandButton.xml
+ Directories:
+    E:\Projects\CNC3\Data\AptBuildXML\0.0-dev\pc\Output\StandardCommandButton\StandardCommandButton_textures\
+ Extend RGB   : Yes
+ Gutter (1)   : No
+ Alpha Channel: Yes
+ Compressed   : No
+ Image Size   : 1024 x 1024
+ Keep Dirs Seperate: Yes
+-->
+<AssetDeclaration xmlns="uri:ea.com:eala:asset" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<!-- Packed Texture: apt_StandardCommandButton_1.tga -->
+	<Texture id="apt_StandardCommandButton_1" File="apt_StandardCommandButton_1.tga" OutputFormat="A8R8G8B8" GenerateMipMaps="false" AllowAutomaticResize="false"/>
+
+	<PackedTextureImage id="163" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="39" y="6"/>
+		<Coords x="463" y="166"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="150" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="39" y="6"/>
+		<Coords x="463" y="158"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="174" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="39" y="6"/>
+		<Coords x="463" y="150"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="200" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="19" y="13"/>
+		<Coords x="463" y="135"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="141" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="38" y="9"/>
+		<Coords x="463" y="124"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="145" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="38" y="9"/>
+		<Coords x="463" y="113"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="143" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="38" y="9"/>
+		<Coords x="463" y="102"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="138" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="43" y="9"/>
+		<Coords x="463" y="91"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="136" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="43" y="9"/>
+		<Coords x="463" y="80"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="134" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="43" y="9"/>
+		<Coords x="463" y="69"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="152" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="57" y="7"/>
+		<Coords x="317" y="298"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="165" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="57" y="7"/>
+		<Coords x="258" y="297"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="176" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="57" y="7"/>
+		<Coords x="199" y="297"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="148" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="68" y="9"/>
+		<Coords x="414" y="287"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="172" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="68" y="9"/>
+		<Coords x="344" y="287"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="161" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="68" y="9"/>
+		<Coords x="274" y="286"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="167" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="73" y="9"/>
+		<Coords x="199" y="286"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="155" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="73" y="9"/>
+		<Coords x="428" y="276"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="179" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="73" y="9"/>
+		<Coords x="353" y="276"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="169" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="75" y="9"/>
+		<Coords x="276" y="275"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="181" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="75" y="9"/>
+		<Coords x="199" y="275"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="157" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="75" y="9"/>
+		<Coords x="385" y="265"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="205" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="32" y="32"/>
+		<Coords x="463" y="35"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="203" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="32" y="32"/>
+		<Coords x="462" y="1"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="197" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="184" y="8"/>
+		<Coords x="199" y="265"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="131" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="40"/>
+		<Coords x="133" y="265"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="129" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="40"/>
+		<Coords x="67" y="265"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="127" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="40"/>
+		<Coords x="1" y="265"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="98" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="397" y="199"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="187" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="331" y="199"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="189" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="265" y="199"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="191" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="199" y="199"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="214" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="133" y="199"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="216" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="67" y="199"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="219" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="1" y="199"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="221" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="397" y="133"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="224" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="331" y="133"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="226" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="265" y="133"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="231" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="199" y="133"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="233" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="397" y="67"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="236" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="331" y="67"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="238" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="265" y="67"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="241" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="199" y="67"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="243" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="396" y="1"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="247" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="330" y="1"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="3" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="264" y="1"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="96" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="198" y="1"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="123" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="133" y="133"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="117" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="67" y="133"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="114" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="1" y="133"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="112" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="133" y="67"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="110" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="67" y="67"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="107" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="1" y="67"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="105" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="132" y="1"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="103" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="66" y="1"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+	<PackedTextureImage id="100" Texture="apt_StandardCommandButton_1" Rotated="false">
+		<Dimensions x="64" y="64"/>
+		<Coords x="0" y="0"/>
+		<TextureDimensions x="512" y="512"/>
+	</PackedTextureImage>
+
+</AssetDeclaration>
